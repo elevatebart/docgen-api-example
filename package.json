@@ -1,0 +1,19 @@
+{
+  "name": "docgen-api-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "docgen": "node ./src/buttonScript.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.4",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.2",
+    "vue-docgen-api": "^4.40.0"
+  }
+}
